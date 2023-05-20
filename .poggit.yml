@@ -1,6 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Gamerplau3975/Pocketmine
+--- # Poggit-CI Manifest. Откройте CI на https://poggit.pmmp.io/ci/Gamerplau3975/Pocketmine
 build-by-default: true
-branches:
-- main
-projects: []
+филиалы:
+- основной
+проекты: [ ]
 ...
